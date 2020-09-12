@@ -15,7 +15,7 @@ A repository that is to be used to re-familiarize myself with GIT.
 3. git add .
     - Track all files with git. 
 
-4. git commit -m "Title Text" -m "Description"
+4. git commit -m "[title-text]" -m "[description]"
     - Commit changes to git. Includes a "Title" for the commit and a "Description".
 
 5. git push
@@ -48,4 +48,11 @@ A repository that is to be used to re-familiarize myself with GIT.
 13. git diff [branch-name]
     - Show the changes made between code versions. 
 
+14. git pull
+    - Pulls the code from a branch. 
 
+15. git branch -d [branch-name]
+    - Deletes a branch.
+
+16. git commit -am "[title-text]" -m "[description]"
+    - Adds and commits modified files to git. Includes a "Title" for the commit and a "Description".
