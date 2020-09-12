@@ -56,3 +56,7 @@ A repository that is to be used to re-familiarize myself with GIT.
 
 16. git commit -am "[title-text]" -m "[description]"
     - Adds and commits modified files to git. Includes a "Title" for the commit and a "Description".
+
+14. Redundant command
+    - Redundant command
+
