@@ -48,4 +48,5 @@ A repository that is to be used to re-familiarize myself with GIT.
 13. git diff [branch-name]
     - Show the changes made between code versions. 
 
-
+14. Redundant command
+    - Redundant command
