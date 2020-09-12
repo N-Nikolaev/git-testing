@@ -57,6 +57,24 @@ A repository that is to be used to re-familiarize myself with GIT.
 16. git commit -am "[title-text]" -m "[description]"
     - Adds and commits modified files to git. Includes a "Title" for the commit and a "Description".
 
-14. Redundant command
-    - Redundant command
+17. git merge master
+    - Merges the master branch into the working branch. 
+
+18. git reset
+    - Unstages all changes made. 
+
+19. git reset [file]
+    - Unstages changes made to a specific file. 
+
+20. git reset HEAD~[number]
+    - Unstages the commits made. The number corresponds to how many commits back it will reset.
+
+21. git log
+    - Shows log of all commits.
+
+22. git reset [commit-hash]
+    - Unstages the commits made up to a certain commit. 
+
+23. git reset --hard [commit-hash]
+    - Removes the commits made up to a certain commit. 
 
