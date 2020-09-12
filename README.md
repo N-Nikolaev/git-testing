@@ -44,3 +44,8 @@ A repository that is to be used to re-familiarize myself with GIT.
 
 12. git checkout [branch-name]
     Switch to a branch. 
+
+13. git diff [branch-name]
+    Show the changes made between code versions. 
+
+
